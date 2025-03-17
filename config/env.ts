@@ -1,0 +1,7 @@
+export const config = {
+  API_URL: "http://192.168.100.24:3001",
+  DEFAULT_THRESHOLD: 30,
+  UPDATE_INTERVAL: 5000,
+  TEMPERATURE_MIN: 15,
+  TEMPERATURE_MAX: 40,
+}; 

@@ -1,0 +1,764 @@
+{
+  "temperature": {
+    "temperature": 21
+  },
+  "history": [
+    {
+      "temperatura": 24,
+      "fecha": "2024-03-17T10:00:00Z"
+    },
+    {
+      "temperatura": 25,
+      "fecha": "2024-03-17T10:05:00Z"
+    },
+    {
+      "temperatura": 26,
+      "fecha": "2024-03-17T10:10:00Z"
+    },
+    {
+      "id": "f0d1",
+      "temperatura": 24,
+      "fecha": "2025-03-17T10:37:23.594Z"
+    },
+    {
+      "id": "f64b",
+      "temperatura": 24,
+      "fecha": "2025-03-17T10:37:23.711Z"
+    },
+    {
+      "id": "6072",
+      "temperatura": 28,
+      "fecha": "2025-03-17T10:37:28.579Z"
+    },
+    {
+      "id": "ee48",
+      "temperatura": 26,
+      "fecha": "2025-03-17T10:37:33.591Z"
+    },
+    {
+      "id": "42f9",
+      "temperatura": 17,
+      "fecha": "2025-03-17T10:37:38.602Z"
+    },
+    {
+      "id": "452e",
+      "temperatura": 28,
+      "fecha": "2025-03-17T10:37:43.671Z"
+    },
+    {
+      "id": "2ccf",
+      "temperatura": 23,
+      "fecha": "2025-03-17T10:37:48.586Z"
+    },
+    {
+      "id": "8c5f",
+      "temperatura": 34,
+      "fecha": "2025-03-17T10:37:53.598Z"
+    },
+    {
+      "id": "0528",
+      "temperatura": 31,
+      "fecha": "2025-03-17T10:37:58.627Z"
+    },
+    {
+      "id": "0ff3",
+      "temperatura": 24,
+      "fecha": "2025-03-17T10:38:03.660Z"
+    },
+    {
+      "id": "447b",
+      "temperatura": 17,
+      "fecha": "2025-03-17T10:38:08.721Z"
+    },
+    {
+      "id": "7570",
+      "temperatura": 27,
+      "fecha": "2025-03-17T10:38:13.919Z"
+    },
+    {
+      "id": "fdc2",
+      "temperatura": 18,
+      "fecha": "2025-03-17T10:38:18.672Z"
+    },
+    {
+      "id": "493a",
+      "temperatura": 33,
+      "fecha": "2025-03-17T10:38:23.687Z"
+    },
+    {
+      "id": "df6f",
+      "temperatura": 30,
+      "fecha": "2025-03-17T10:38:28.783Z"
+    },
+    {
+      "id": "c804",
+      "temperatura": 33,
+      "fecha": "2025-03-17T10:38:33.730Z"
+    },
+    {
+      "id": "a868",
+      "temperatura": 26,
+      "fecha": "2025-03-17T10:38:38.723Z"
+    },
+    {
+      "id": "cee5",
+      "temperatura": 22,
+      "fecha": "2025-03-17T10:38:43.714Z"
+    },
+    {
+      "id": "b3ce",
+      "temperatura": 29,
+      "fecha": "2025-03-17T10:38:48.747Z"
+    },
+    {
+      "id": "580b",
+      "temperatura": 40,
+      "fecha": "2025-03-17T10:38:53.778Z"
+    },
+    {
+      "id": "63b0",
+      "temperatura": 37,
+      "fecha": "2025-03-17T10:38:58.811Z"
+    },
+    {
+      "id": "d9f5",
+      "temperatura": 31,
+      "fecha": "2025-03-17T10:39:03.800Z"
+    },
+    {
+      "id": "8091",
+      "temperatura": 15,
+      "fecha": "2025-03-17T10:39:08.846Z"
+    },
+    {
+      "id": "81ac",
+      "temperatura": 23,
+      "fecha": "2025-03-17T10:39:13.990Z"
+    },
+    {
+      "id": "9de2",
+      "temperatura": 16,
+      "fecha": "2025-03-17T10:39:19.037Z"
+    },
+    {
+      "id": "aea8",
+      "temperatura": 25,
+      "fecha": "2025-03-17T10:39:22.420Z"
+    },
+    {
+      "id": "a3ba",
+      "temperatura": 25,
+      "fecha": "2025-03-17T10:39:22.464Z"
+    },
+    {
+      "id": "ab4a",
+      "temperatura": 35,
+      "fecha": "2025-03-17T10:39:27.470Z"
+    },
+    {
+      "id": "f037",
+      "temperatura": 27,
+      "fecha": "2025-03-17T10:39:32.464Z"
+    },
+    {
+      "id": "efa0",
+      "temperatura": 19,
+      "fecha": "2025-03-17T10:39:37.667Z"
+    },
+    {
+      "id": "3ce5",
+      "temperatura": 21,
+      "fecha": "2025-03-17T10:39:42.485Z"
+    },
+    {
+      "id": "90fa",
+      "temperatura": 23,
+      "fecha": "2025-03-17T10:39:47.510Z"
+    },
+    {
+      "id": "2474",
+      "temperatura": 39,
+      "fecha": "2025-03-17T10:39:52.533Z"
+    },
+    {
+      "id": "3411",
+      "temperatura": 28,
+      "fecha": "2025-03-17T10:39:57.513Z"
+    },
+    {
+      "id": "0acf",
+      "temperatura": 19,
+      "fecha": "2025-03-17T10:40:02.526Z"
+    },
+    {
+      "id": "8edb",
+      "temperatura": 39,
+      "fecha": "2025-03-17T10:40:07.547Z"
+    },
+    {
+      "id": "47d9",
+      "temperatura": 32,
+      "fecha": "2025-03-17T10:40:12.548Z"
+    },
+    {
+      "id": "d873",
+      "temperatura": 39,
+      "fecha": "2025-03-17T10:40:17.546Z"
+    },
+    {
+      "id": "15ea",
+      "temperatura": 19,
+      "fecha": "2025-03-17T10:40:22.560Z"
+    },
+    {
+      "id": "41f1",
+      "temperatura": 23,
+      "fecha": "2025-03-17T10:40:27.620Z"
+    },
+    {
+      "id": "4667",
+      "temperatura": 29,
+      "fecha": "2025-03-17T10:40:32.601Z"
+    },
+    {
+      "id": "8422",
+      "temperatura": 37,
+      "fecha": "2025-03-17T10:40:37.629Z"
+    },
+    {
+      "id": "e88c",
+      "temperatura": 23,
+      "fecha": "2025-03-17T10:40:42.759Z"
+    },
+    {
+      "id": "10eb",
+      "temperatura": 24,
+      "fecha": "2025-03-17T10:40:47.639Z"
+    },
+    {
+      "id": "ca9a",
+      "temperatura": 18,
+      "fecha": "2025-03-17T10:40:52.629Z"
+    },
+    {
+      "id": "bae6",
+      "temperatura": 22,
+      "fecha": "2025-03-17T10:40:57.646Z"
+    },
+    {
+      "id": "8659",
+      "temperatura": 26,
+      "fecha": "2025-03-17T10:41:02.665Z"
+    },
+    {
+      "id": "451b",
+      "temperatura": 37,
+      "fecha": "2025-03-17T10:41:07.663Z"
+    },
+    {
+      "id": "3b6b",
+      "temperatura": 15,
+      "fecha": "2025-03-17T10:41:12.696Z"
+    },
+    {
+      "id": "b660",
+      "temperatura": 32,
+      "fecha": "2025-03-17T10:41:17.672Z"
+    },
+    {
+      "id": "b9d5",
+      "temperatura": 33,
+      "fecha": "2025-03-17T10:41:22.738Z"
+    },
+    {
+      "id": "9d05",
+      "temperatura": 16,
+      "fecha": "2025-03-17T10:41:27.676Z"
+    },
+    {
+      "id": "5d75",
+      "temperatura": 20,
+      "fecha": "2025-03-17T10:41:32.707Z"
+    },
+    {
+      "id": "e727",
+      "temperatura": 27,
+      "fecha": "2025-03-17T10:41:37.721Z"
+    },
+    {
+      "id": "6119",
+      "temperatura": 33,
+      "fecha": "2025-03-17T10:41:42.743Z"
+    },
+    {
+      "id": "e7ad",
+      "temperatura": 16,
+      "fecha": "2025-03-17T10:41:47.891Z"
+    },
+    {
+      "id": "7b26",
+      "temperatura": 24,
+      "fecha": "2025-03-17T10:41:52.753Z"
+    },
+    {
+      "id": "4ad9",
+      "temperatura": 29,
+      "fecha": "2025-03-17T10:41:57.785Z"
+    },
+    {
+      "id": "b92f",
+      "temperatura": 23,
+      "fecha": "2025-03-17T10:42:02.778Z"
+    },
+    {
+      "id": "aa05",
+      "temperatura": 18,
+      "fecha": "2025-03-17T10:42:07.791Z"
+    },
+    {
+      "id": "fdf3",
+      "temperatura": 19,
+      "fecha": "2025-03-17T10:42:12.801Z"
+    },
+    {
+      "id": "3a91",
+      "temperatura": 21,
+      "fecha": "2025-03-17T10:42:17.815Z"
+    },
+    {
+      "id": "481b",
+      "temperatura": 37,
+      "fecha": "2025-03-17T10:42:22.820Z"
+    },
+    {
+      "id": "3eb6",
+      "temperatura": 16,
+      "fecha": "2025-03-17T10:42:27.834Z"
+    },
+    {
+      "id": "b48a",
+      "temperatura": 30,
+      "fecha": "2025-03-17T10:42:32.938Z"
+    },
+    {
+      "id": "1e45",
+      "temperatura": 15,
+      "fecha": "2025-03-17T10:42:37.866Z"
+    },
+    {
+      "id": "3ee2",
+      "temperatura": 29,
+      "fecha": "2025-03-17T10:42:42.858Z"
+    },
+    {
+      "id": "bd7b",
+      "temperatura": 23,
+      "fecha": "2025-03-17T10:42:47.882Z"
+    },
+    {
+      "id": "2890",
+      "temperatura": 36,
+      "fecha": "2025-03-17T10:42:53.000Z"
+    },
+    {
+      "id": "54d6",
+      "temperatura": 39,
+      "fecha": "2025-03-17T10:42:57.899Z"
+    },
+    {
+      "id": "bba4",
+      "temperatura": 33,
+      "fecha": "2025-03-17T10:43:02.887Z"
+    },
+    {
+      "id": "cd4b",
+      "temperatura": 19,
+      "fecha": "2025-03-17T10:43:07.916Z"
+    },
+    {
+      "id": "b924",
+      "temperatura": 21,
+      "fecha": "2025-03-17T10:43:12.909Z"
+    },
+    {
+      "id": "7c9d",
+      "temperatura": 36,
+      "fecha": "2025-03-17T10:43:17.919Z"
+    },
+    {
+      "id": "2174",
+      "temperatura": 21,
+      "fecha": "2025-03-17T10:43:23.018Z"
+    },
+    {
+      "id": "d445",
+      "temperatura": 37,
+      "fecha": "2025-03-17T10:43:27.943Z"
+    },
+    {
+      "id": "e964",
+      "temperatura": 40,
+      "fecha": "2025-03-17T10:43:32.954Z"
+    },
+    {
+      "id": "2b21",
+      "temperatura": 28,
+      "fecha": "2025-03-17T10:43:37.970Z"
+    },
+    {
+      "id": "4e7a",
+      "temperatura": 25,
+      "fecha": "2025-03-17T10:43:42.985Z"
+    },
+    {
+      "id": "f882",
+      "temperatura": 37,
+      "fecha": "2025-03-17T10:43:48.013Z"
+    },
+    {
+      "id": "2112",
+      "temperatura": 39,
+      "fecha": "2025-03-17T10:43:53.022Z"
+    },
+    {
+      "id": "d2fe",
+      "temperatura": 23,
+      "fecha": "2025-03-17T10:43:58.132Z"
+    },
+    {
+      "id": "1b04",
+      "temperatura": 22,
+      "fecha": "2025-03-17T10:44:03.040Z"
+    },
+    {
+      "id": "e48e",
+      "temperatura": 27,
+      "fecha": "2025-03-17T10:44:08.026Z"
+    },
+    {
+      "id": "3433",
+      "temperatura": 36,
+      "fecha": "2025-03-17T10:44:12.607Z"
+    },
+    {
+      "id": "f687",
+      "temperatura": 36,
+      "fecha": "2025-03-17T10:44:13.023Z"
+    },
+    {
+      "id": "51e3",
+      "temperatura": 32,
+      "fecha": "2025-03-17T10:44:17.765Z"
+    },
+    {
+      "id": "5b88",
+      "temperatura": 32,
+      "fecha": "2025-03-17T10:44:18.105Z"
+    },
+    {
+      "id": "bd0b",
+      "temperatura": 17,
+      "fecha": "2025-03-17T10:44:23.000Z"
+    },
+    {
+      "id": "f39c",
+      "temperatura": 17,
+      "fecha": "2025-03-17T10:44:23.413Z"
+    },
+    {
+      "id": "3b0f",
+      "temperatura": 31,
+      "fecha": "2025-03-17T10:44:28.266Z"
+    },
+    {
+      "id": "f2ae",
+      "temperatura": 31,
+      "fecha": "2025-03-17T10:44:28.676Z"
+    },
+    {
+      "id": "91bf",
+      "temperatura": 15,
+      "fecha": "2025-03-17T10:44:33.544Z"
+    },
+    {
+      "id": "8edd",
+      "temperatura": 15,
+      "fecha": "2025-03-17T10:44:33.984Z"
+    },
+    {
+      "id": "c05d",
+      "temperatura": 15,
+      "fecha": "2025-03-17T10:44:39.043Z"
+    },
+    {
+      "id": "bca5",
+      "temperatura": 20,
+      "fecha": "2025-03-17T10:44:43.834Z"
+    },
+    {
+      "id": "5129",
+      "temperatura": 20,
+      "fecha": "2025-03-17T10:44:44.282Z"
+    },
+    {
+      "id": "faef",
+      "temperatura": 21,
+      "fecha": "2025-03-17T10:44:49.129Z"
+    },
+    {
+      "id": "398d",
+      "temperatura": 21,
+      "fecha": "2025-03-17T10:44:49.626Z"
+    },
+    {
+      "id": "88b1",
+      "temperatura": 27,
+      "fecha": "2025-03-17T10:44:54.443Z"
+    },
+    {
+      "id": "e505",
+      "temperatura": 27,
+      "fecha": "2025-03-17T10:44:54.937Z"
+    },
+    {
+      "id": "4d8d",
+      "temperatura": 18,
+      "fecha": "2025-03-17T10:44:59.737Z"
+    },
+    {
+      "id": "6dff",
+      "temperatura": 18,
+      "fecha": "2025-03-17T10:45:00.229Z"
+    },
+    {
+      "id": "c382",
+      "temperatura": 27,
+      "fecha": "2025-03-17T10:45:05.030Z"
+    },
+    {
+      "id": "9d28",
+      "temperatura": 27,
+      "fecha": "2025-03-17T10:45:05.513Z"
+    },
+    {
+      "id": "6afd",
+      "temperatura": 20,
+      "fecha": "2025-03-17T10:45:10.313Z"
+    },
+    {
+      "id": "b37a",
+      "temperatura": 22,
+      "fecha": "2025-03-17T10:45:10.796Z"
+    },
+    {
+      "id": "0e6d",
+      "temperatura": 22,
+      "fecha": "2025-03-17T10:45:11.256Z"
+    },
+    {
+      "id": "261a",
+      "temperatura": 40,
+      "fecha": "2025-03-17T10:45:16.022Z"
+    },
+    {
+      "id": "72d9",
+      "temperatura": 40,
+      "fecha": "2025-03-17T10:45:16.445Z"
+    },
+    {
+      "id": "1c12",
+      "temperatura": 34,
+      "fecha": "2025-03-17T10:45:21.288Z"
+    },
+    {
+      "id": "243c",
+      "temperatura": 34,
+      "fecha": "2025-03-17T10:45:21.746Z"
+    },
+    {
+      "id": "e94a",
+      "temperatura": 19,
+      "fecha": "2025-03-17T10:45:26.581Z"
+    },
+    {
+      "id": "c9e5",
+      "temperatura": 19,
+      "fecha": "2025-03-17T10:45:27.035Z"
+    },
+    {
+      "id": "475c",
+      "temperatura": 32,
+      "fecha": "2025-03-17T10:45:31.840Z"
+    },
+    {
+      "id": "522d",
+      "temperatura": 32,
+      "fecha": "2025-03-17T10:45:32.329Z"
+    },
+    {
+      "id": "b4dc",
+      "temperatura": 17,
+      "fecha": "2025-03-17T10:45:37.328Z"
+    },
+    {
+      "id": "9f37",
+      "temperatura": 17,
+      "fecha": "2025-03-17T10:45:37.809Z"
+    },
+    {
+      "id": "1c47",
+      "temperatura": 25,
+      "fecha": "2025-03-17T10:45:42.874Z"
+    },
+    {
+      "id": "e6d9",
+      "temperatura": 25,
+      "fecha": "2025-03-17T10:45:43.366Z"
+    },
+    {
+      "id": "8786",
+      "temperatura": 34,
+      "fecha": "2025-03-17T10:45:48.126Z"
+    },
+    {
+      "id": "aa07",
+      "temperatura": 34,
+      "fecha": "2025-03-17T10:45:48.616Z"
+    },
+    {
+      "id": "479a",
+      "temperatura": 35,
+      "fecha": "2025-03-17T10:45:53.394Z"
+    },
+    {
+      "id": "9b90",
+      "temperatura": 35,
+      "fecha": "2025-03-17T10:45:53.865Z"
+    },
+    {
+      "id": "d786",
+      "temperatura": 24,
+      "fecha": "2025-03-17T10:45:58.673Z"
+    },
+    {
+      "id": "cced",
+      "temperatura": 24,
+      "fecha": "2025-03-17T10:45:59.168Z"
+    },
+    {
+      "id": "ed3d",
+      "temperatura": 36,
+      "fecha": "2025-03-17T10:46:03.951Z"
+    },
+    {
+      "id": "010f",
+      "temperatura": 36,
+      "fecha": "2025-03-17T10:46:04.435Z"
+    },
+    {
+      "id": "2ee8",
+      "temperatura": 29,
+      "fecha": "2025-03-17T10:46:09.233Z"
+    },
+    {
+      "id": "221e",
+      "temperatura": 29,
+      "fecha": "2025-03-17T10:46:09.684Z"
+    },
+    {
+      "id": "e2e7",
+      "temperatura": 25,
+      "fecha": "2025-03-17T10:46:14.520Z"
+    },
+    {
+      "id": "1b0f",
+      "temperatura": 25,
+      "fecha": "2025-03-17T10:46:14.987Z"
+    },
+    {
+      "id": "ba2b",
+      "temperatura": 17,
+      "fecha": "2025-03-17T10:46:20.190Z"
+    },
+    {
+      "id": "aa2b",
+      "temperatura": 20,
+      "fecha": "2025-03-17T10:46:20.814Z"
+    },
+    {
+      "id": "bfbf",
+      "temperatura": 20,
+      "fecha": "2025-03-17T10:46:21.217Z"
+    },
+    {
+      "id": "fced",
+      "temperatura": 32,
+      "fecha": "2025-03-17T10:46:26.059Z"
+    },
+    {
+      "id": "8286",
+      "temperatura": 32,
+      "fecha": "2025-03-17T10:46:26.400Z"
+    },
+    {
+      "id": "2284",
+      "temperatura": 30,
+      "fecha": "2025-03-17T10:46:31.299Z"
+    },
+    {
+      "id": "1a6d",
+      "temperatura": 30,
+      "fecha": "2025-03-17T10:46:31.760Z"
+    },
+    {
+      "id": "e569",
+      "temperatura": 18,
+      "fecha": "2025-03-17T10:46:36.583Z"
+    },
+    {
+      "id": "2ca2",
+      "temperatura": 18,
+      "fecha": "2025-03-17T10:46:36.964Z"
+    },
+    {
+      "id": "33b3",
+      "temperatura": 17,
+      "fecha": "2025-03-17T10:46:41.811Z"
+    },
+    {
+      "id": "7287",
+      "temperatura": 17,
+      "fecha": "2025-03-17T10:46:42.224Z"
+    },
+    {
+      "id": "574c",
+      "temperatura": 27,
+      "fecha": "2025-03-17T10:46:47.044Z"
+    },
+    {
+      "id": "49a5",
+      "temperatura": 27,
+      "fecha": "2025-03-17T10:46:47.429Z"
+    },
+    {
+      "id": "a0f6",
+      "temperatura": 25,
+      "fecha": "2025-03-17T10:46:52.297Z"
+    },
+    {
+      "id": "1f83",
+      "temperatura": 25,
+      "fecha": "2025-03-17T10:46:52.640Z"
+    },
+    {
+      "id": "6e57",
+      "temperatura": 26,
+      "fecha": "2025-03-17T10:46:57.531Z"
+    },
+    {
+      "id": "18eb",
+      "temperatura": 26,
+      "fecha": "2025-03-17T10:46:57.986Z"
+    }
+  ]
+}

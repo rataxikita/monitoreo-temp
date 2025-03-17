@@ -1,0 +1,62 @@
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# Dependencias
+node_modules/
+.pnp
+.pnp.js
+
+# Expo
+.expo/
+dist/
+web-build/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+# Logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# Entorno
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Build
+android/app/build/
+ios/build/
+*.apk
+*.aab
+*.ipa
+
+# Cache
+.cache/
+.npm/
+.yarn/
+
+# Metro
+.metro-health-check*
+
+# Expo environment type
+expo-env.d.ts
+
+# typescript
+*.tsbuildinfo
+
+app-example

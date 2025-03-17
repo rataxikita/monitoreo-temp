@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "678858060192",
+    "project_id": "monitoreo-temp-3c297",
+    "storage_bucket": "monitoreo-temp-3c297.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678858060192:android:63455a6d400822484934c5",
+        "android_client_info": {
+          "package_name": "com.rataxikita.monitoreotemp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCveC6TbdhISAPVeN-ttexqsIu9TmV5ADo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
