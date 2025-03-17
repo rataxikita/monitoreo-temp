@@ -56,6 +56,10 @@ ios/build/
 # Expo environment type
 expo-env.d.ts
 
+# Archivos sensibles
+google-services.json
+google-services.json.example
+
 # typescript
 *.tsbuildinfo
 
